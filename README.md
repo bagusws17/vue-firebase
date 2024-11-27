@@ -4,7 +4,6 @@
 
     Shift Baru : D
 
-    ## Penjelasan dan Screenshot
 
 # Tugas 10 - Pertemuan 11
 
